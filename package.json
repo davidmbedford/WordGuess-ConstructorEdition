@@ -1,0 +1,22 @@
+{
+  "name": "wordguess-constructoredition",
+  "version": "1.0.0",
+  "description": "This Word Guess Game runs in a Command-Line Interface and uses Constructor functions with Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmbedford/WordGuess-ConstructorEdition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmbedford/WordGuess-ConstructorEdition/issues"
+  },
+  "homepage": "https://github.com/davidmbedford/WordGuess-ConstructorEdition#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
